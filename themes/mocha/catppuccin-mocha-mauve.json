@@ -1,7 +1,6 @@
 {
   "id": "catppuccin-mocha-mauve",
   "name": "Catppuccin Mocha (Mauve)",
-
   "colors": {
     "node_slot": {
       "CLIP": "#f9e2af",

@@ -1,7 +1,6 @@
 {
   "id": "catppuccin-mocha-maroon",
   "name": "Catppuccin Mocha (Maroon)",
-
   "colors": {
     "node_slot": {
       "CLIP": "#f9e2af",

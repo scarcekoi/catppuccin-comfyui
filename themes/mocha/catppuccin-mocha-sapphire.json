@@ -1,7 +1,6 @@
 {
   "id": "catppuccin-mocha-sapphire",
   "name": "Catppuccin Mocha (Sapphire)",
-
   "colors": {
     "node_slot": {
       "CLIP": "#f9e2af",

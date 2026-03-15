@@ -1,7 +1,6 @@
 {
   "id": "catppuccin-mocha-sky",
   "name": "Catppuccin Mocha (Sky)",
-
   "colors": {
     "node_slot": {
       "CLIP": "#f9e2af",

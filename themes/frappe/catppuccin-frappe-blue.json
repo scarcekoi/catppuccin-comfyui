@@ -1,7 +1,6 @@
 {
   "id": "catppuccin-frappe-blue",
   "name": "Catppuccin Frappé (Blue)",
-
   "colors": {
     "node_slot": {
       "CLIP": "#e5c890",

@@ -1,7 +1,6 @@
 {
   "id": "catppuccin-frappe-rosewater",
   "name": "Catppuccin Frappé (Rosewater)",
-
   "colors": {
     "node_slot": {
       "CLIP": "#e5c890",

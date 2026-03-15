@@ -1,7 +1,6 @@
 {
   "id": "catppuccin-mocha-flamingo",
   "name": "Catppuccin Mocha (Flamingo)",
-
   "colors": {
     "node_slot": {
       "CLIP": "#f9e2af",

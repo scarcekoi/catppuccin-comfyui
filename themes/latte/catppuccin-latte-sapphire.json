@@ -1,9 +1,7 @@
 {
   "id": "catppuccin-latte-sapphire",
   "name": "Catppuccin Latte (Sapphire)",
-
   "light_theme": true,
-
   "colors": {
     "node_slot": {
       "CLIP": "#df8e1d",

@@ -1,7 +1,6 @@
 {
   "id": "catppuccin-macchiato-lavender",
   "name": "Catppuccin Macchiato (Lavender)",
-
   "colors": {
     "node_slot": {
       "CLIP": "#eed49f",

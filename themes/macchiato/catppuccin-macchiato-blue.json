@@ -1,7 +1,6 @@
 {
   "id": "catppuccin-macchiato-blue",
   "name": "Catppuccin Macchiato (Blue)",
-
   "colors": {
     "node_slot": {
       "CLIP": "#eed49f",

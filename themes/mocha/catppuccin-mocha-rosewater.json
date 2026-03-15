@@ -1,7 +1,6 @@
 {
   "id": "catppuccin-mocha-rosewater",
   "name": "Catppuccin Mocha (Rosewater)",
-
   "colors": {
     "node_slot": {
       "CLIP": "#f9e2af",

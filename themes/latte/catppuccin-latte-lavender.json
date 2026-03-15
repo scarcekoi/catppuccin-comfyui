@@ -1,9 +1,7 @@
 {
   "id": "catppuccin-latte-lavender",
   "name": "Catppuccin Latte (Lavender)",
-
   "light_theme": true,
-
   "colors": {
     "node_slot": {
       "CLIP": "#df8e1d",

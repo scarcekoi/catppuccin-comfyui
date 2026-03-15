@@ -1,9 +1,7 @@
 {
   "id": "catppuccin-latte-rosewater",
   "name": "Catppuccin Latte (Rosewater)",
-
   "light_theme": true,
-
   "colors": {
     "node_slot": {
       "CLIP": "#df8e1d",

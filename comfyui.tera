@@ -9,10 +9,8 @@ whiskers:
 ---
 {
   "id": "catppuccin-{{ flavor.identifier }}-{{ accent }}",
-  "name": "Catppuccin {{ flavor.name }} ({{ accent | capitalize }})",
-{% if flavor.identifier == "latte" %}
-  "light_theme": true,
-{% endif %}
+  "name": "Catppuccin {{ flavor.name }} ({{ accent | capitalize }})",{% if flavor.light %}
+  "light_theme": true,{% endif %}
   "colors": {
     "node_slot": {
       "CLIP": "{{ yellow.hex }}",

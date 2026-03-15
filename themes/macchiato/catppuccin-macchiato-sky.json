@@ -1,7 +1,6 @@
 {
   "id": "catppuccin-macchiato-sky",
   "name": "Catppuccin Macchiato (Sky)",
-
   "colors": {
     "node_slot": {
       "CLIP": "#eed49f",

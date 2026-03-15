@@ -1,9 +1,7 @@
 {
   "id": "catppuccin-latte-flamingo",
   "name": "Catppuccin Latte (Flamingo)",
-
   "light_theme": true,
-
   "colors": {
     "node_slot": {
       "CLIP": "#df8e1d",

@@ -1,9 +1,7 @@
 {
   "id": "catppuccin-latte-teal",
   "name": "Catppuccin Latte (Teal)",
-
   "light_theme": true,
-
   "colors": {
     "node_slot": {
       "CLIP": "#df8e1d",

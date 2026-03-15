@@ -1,7 +1,6 @@
 {
   "id": "catppuccin-macchiato-maroon",
   "name": "Catppuccin Macchiato (Maroon)",
-
   "colors": {
     "node_slot": {
       "CLIP": "#eed49f",

@@ -1,7 +1,6 @@
 {
   "id": "catppuccin-macchiato-yellow",
   "name": "Catppuccin Macchiato (Yellow)",
-
   "colors": {
     "node_slot": {
       "CLIP": "#eed49f",

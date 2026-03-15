@@ -1,7 +1,6 @@
 {
   "id": "catppuccin-macchiato-pink",
   "name": "Catppuccin Macchiato (Pink)",
-
   "colors": {
     "node_slot": {
       "CLIP": "#eed49f",

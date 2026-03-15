@@ -1,9 +1,7 @@
 {
   "id": "catppuccin-latte-pink",
   "name": "Catppuccin Latte (Pink)",
-
   "light_theme": true,
-
   "colors": {
     "node_slot": {
       "CLIP": "#df8e1d",

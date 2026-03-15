@@ -1,9 +1,7 @@
 {
   "id": "catppuccin-latte-blue",
   "name": "Catppuccin Latte (Blue)",
-
   "light_theme": true,
-
   "colors": {
     "node_slot": {
       "CLIP": "#df8e1d",

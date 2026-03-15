@@ -1,9 +1,7 @@
 {
   "id": "catppuccin-latte-maroon",
   "name": "Catppuccin Latte (Maroon)",
-
   "light_theme": true,
-
   "colors": {
     "node_slot": {
       "CLIP": "#df8e1d",
